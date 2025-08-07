@@ -1,4 +1,4 @@
-# README Geral - Projetos do Bootcamp de Análise de Dados — TripleTen
+# Projetos do Bootcamp de Análise de Dados — TripleTen
 
 Repositório com os projetos desenvolvidos durante o curso de formação em Análise de Dados da [TripleTen](https://tripleten.com).
 
