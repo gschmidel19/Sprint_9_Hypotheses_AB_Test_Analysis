@@ -14,7 +14,7 @@ Repositório com os projetos desenvolvidos durante o curso de formação em Aná
 | 6      | Análise de Vendas de Jogos: Ice Game Store         | [Ver projeto](https://github.com/gschmidel19/Sprint_6_VideoGame_Sales/tree/main/Sprint_6_VideoGame_Sales) |
 | 7      | Análise de Dados de Compartilhamento de Caronas: Zuber | [Ver projeto](https://github.com/gschmidel19/Sprint_7_Zuber) |
 | 8      | Otimização de Despesas de Marketing: Y.Afisha      | [Ver projeto](https://github.com/gschmidel19/Sprint_8_YAfisha) |
-| 9      | Priorização de Hipóteses e Análise de Teste A/B    | [Ver projeto](https://github.com/gschmidel19/Sprint_9_Hypotheses_AB_Test_Analysis) |
+| 9      | Priorização de Hipóteses e Análise de Teste A/B    | [Ver projeto](https://github.com/gschmidel19/Sprint_9_Hypotheses_AB_Test_Analysis/tree/main/Sprint_9_Hypotheses_AB_Test_Analysis)|
 
 ## 🧰 Tecnologias
 
@@ -31,5 +31,17 @@ Repositório com os projetos desenvolvidos durante o curso de formação em Aná
 - Testes estatísticos para comparação de grupos (significância)  
 - Tomada de decisão baseada em dados  
 
+## Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/gschmidel19/Sprint_9_Hypotheses_AB_Test_Analysis.git
+
+2. Instale as dependências: 
+pip install -r requirements.txt
+
+3. Execute o notebook Jupyter para seguir toda análise e conclusões
+jupyter notebook notebooks/sprint_9_analysis.ipynb
 ---
 
